@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+starlette
+boto3
+asyncio
+aiohttp
+python-multipart
+qrcode
